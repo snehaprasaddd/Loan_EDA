@@ -30,7 +30,7 @@ Assess Model Performance: Use metrics like Accuracy, Precision, Recall, F1-Score
 Insights on Credit Risk: Highlight key factors influencing creditworthiness.
 Recommendations: Suggest strategies to improve credit assessment and loan disbursal, such as refining the scoring model or targeting specific customer segments.
 
-### Go through for more detailed explaination: 
+Download and go through for more detailed explaination: https://github.com/snehaprasaddd/Loan_EDA/blob/main/FinalPPt.pptx
 
 ![image](https://github.com/user-attachments/assets/62d7640a-41bd-4a0d-b6e4-b1b454613673)
 ![image](https://github.com/user-attachments/assets/0ddcc596-10ac-4764-b36c-3bdcdaa93c36)
